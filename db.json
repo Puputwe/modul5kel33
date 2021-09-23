@@ -1,0 +1,40 @@
+{
+  "data": [
+  {
+    "name": "PUPUT",
+    "username": "putput",
+    "email": "puput@gmail.com",
+    "address": "Semarang"
+  },
+  {
+    "name": "WERDININGSIH",
+    "username": "mbakning",
+    "email": "werning@gmail.com",
+    "address": "Surabaya"
+  },
+  {
+    "name": "GERARDUS",
+    "username": "gerar08",
+    "email": "jaemin@gmail.com",
+    "address": "Lampung"
+  },  
+  {
+    "name": "SIMON GONG JUN",
+    "username": "simon",
+    "email": "gonjun@gmail.com",
+    "address": "China"
+  },
+  {
+    "name": "Zhao Lusi",
+    "username": "lusii10",
+    "email": "luslusi@gmail.com",
+    "address": "China"
+  },  
+  {
+    "name": "Hu Yi Tian",
+    "username": "yitien",
+    "email": "yiyiti@gmail.com",
+    "address": "China"
+  }
+]
+}
